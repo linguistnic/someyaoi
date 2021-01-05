@@ -1,0 +1,22 @@
+h1{
+    color: gray;
+}
+
+button {
+    background-color: white;
+    border-color:rgb(194, 194, 194);
+    color: rgb(216, 119, 135);
+    size: 4em;
+    box-align: center;
+}
+button:hover{
+    background-color: lightseagreen;
+    border-color: black;
+    color: gray;
+}
+ button:visited{
+     background-color: lightgoldenrodyellow;
+ }
+strong{
+    font-size: 1.5em;
+}
